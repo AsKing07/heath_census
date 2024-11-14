@@ -1,0 +1,55 @@
+{
+  "conditions": [
+    {
+      "name": "Thyroid",
+      "imagesrc": "https://cdn-s-www.ledauphine.com/images/33DF4DEB-378F-491A-BFA3-B89ADB47EAB1/NW_detail/la-glande-thyroide-qui-se-situe-a-la-base-du-cou-et-a-qui-on-attribue-une-forme-de-papillon-secrete-des-hormones-influencant-fortement-le-metabolisme-de-base-illustration-adobe-stock-1653487321.jpg",
+      "symptoms": [
+        "Fatigue",
+        "Weight gain or loss",
+        "Dry skin",
+        "Muscle weakness",
+        "Irregular menstrual periods"
+      ],
+      "prevention": [
+        "Eat a balanced diet",
+        "Exercise regularly",
+        "Get regular check-ups"
+      ],
+      "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+    },
+    {
+      "name": "Diabetes",
+      "imagesrc": "https://www.arkanalabs.com/wp-content/uploads/2021/10/diabetes-2048x1544.png",
+      "symptoms": [
+        "Frequent urination",
+        "Increased thirst",
+        "Blurry vision",
+        "Fatigue",
+        "Slow healing of cuts or sores"
+      ],
+      "prevention": [
+        "Maintain a healthy weight",
+        "Follow a balanced diet",
+        "Regular exercise"
+      ],
+      "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+    },
+    {
+      "name": "High Blood Pressure",
+      "imagesrc": "https://www.lancastergeneralhealth.org/-/media/images/lancaster%20general/images/healthhub/healthhubpost/how_high_blood_pressure_can_lead_to_stroke_1200x600.ashx?mh=600",
+      "symptoms": [
+        "Headaches",
+        "Shortness of breath",
+        "Chest pain",
+        "Dizziness",
+        "Blurred or double vision"
+      ],
+      "prevention": [
+        "Reduce salt intake",
+        "Exercise regularly",
+        "Maintain a healthy weight"
+      ],
+      "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+    }
+  ]
+}
